@@ -1,5 +1,5 @@
 ---
-short_name: ted
+short_name: APP
 name: Ted Doe
 position: Writer
 ---

@@ -1,5 +1,5 @@
 ---
-short_name: jill
+short_name: Davis
 name: Jill Smith
 position: Chief Editor
 ---
