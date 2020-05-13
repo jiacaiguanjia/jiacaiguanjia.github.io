@@ -1,0 +1,15 @@
+---
+layout: default
+title: Staff
+---
+<h1>Staff</h1>
+
+<ul>
+  {% for author in site.posts %}
+    <li>
+      <h2>{{ author.url | absolute_url}}</h2>
+      <h3>{{ author.title | markdownify}}</h3>
+      <p>{{ author.author | markdownify }}</p>
+    </li>
+  {% endfor %}
+</ul>

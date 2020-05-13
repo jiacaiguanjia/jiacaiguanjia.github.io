@@ -1,0 +1,8 @@
+# 站点相关信息
+title: "加财管家"
+locale: "站点地址"
+
+# Collection Setting
+Collections:
+  authors:
+    output: true
