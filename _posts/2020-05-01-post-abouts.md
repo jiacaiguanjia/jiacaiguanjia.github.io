@@ -1,5 +1,4 @@
 ---
-layout: post
 title: post2
 author: APP
 ---

@@ -4,12 +4,16 @@ title: Staff
 ---
 <h1>Staff</h1>
 
+{{ site.locale }} <br>
+===== <br>
+{{ site.authors }} <br>
+===== <br>
 <ul>
-  {% for author in site.posts %}
+  {% for author in site.authors %}
     <li>
-      <h2>{{ author.url | absolute_url}}</h2>
-      <h3>{{ author.title | markdownify}}</h3>
-      <p>{{ author.author | markdownify }}</p>
+      <h2>{{ author.name }}</h2>
+      <h3>{{ author.position }}</h3>
+      <p>{{ author.content | markdownify }}</p>
     </li>
   {% endfor %}
 </ul>

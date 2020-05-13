@@ -1,5 +1,4 @@
 ---
-layout: post
 title: post1
 author: Davis
 ---
