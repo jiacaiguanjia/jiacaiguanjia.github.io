@@ -2,7 +2,6 @@
 title: "加财管家"
 locale: "站点地址"
 
-# Collection Setting
-Collections:
+collections:
   authors:
-    output: true
+  davis:
