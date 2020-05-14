@@ -1,0 +1,8 @@
+李少华:
+  name: "李少华"
+  bio: "加财管家创始人"
+  avatar: "/assets/images/author-images/davislee.jpg"
+  links:
+    - label: "Email"
+      url: "mailto:lishaohua123@hotmail.com"
+      icon: "fas fa-fw fa-envelope-square"

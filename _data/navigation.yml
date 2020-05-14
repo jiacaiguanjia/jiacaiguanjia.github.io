@@ -1,0 +1,20 @@
+# main links
+main:
+  - title: "首页"
+    url: /
+  - title: "理财规划"
+    url: /finance
+  - title: "保险"
+    url: /insurance
+  - title: "投资"
+    url: /investment
+  - title: "杂谈"
+    url: /notes
+  - title: "Quick-Start Guide"
+    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  # - title: "About"
+  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
